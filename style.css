@@ -1,0 +1,48 @@
+body{
+    color: #87929c;
+}
+.download{
+   color: #2e6ec7;
+}
+#download{
+   width: 20px;
+}
+#get{
+    align: right;
+}
+#logo{
+    width: 60px;
+}
+#input{
+    padding: 19px;
+    margin: 7px;
+    border: #eceef1 solid 1px;
+    border-radius: 15px;
+    width: 250px;
+}
+#login{
+    color: white;
+    background-color: rgb(0, 102, 255);
+    width: 280px;
+    border-radius: 40px;
+    padding: 13px;
+    border-color: white;
+    border-style: none;
+    
+}
+#forgot{
+    background-color: white;
+    border: none;
+    margin-top: 10px;
+}
+#newacc{
+    background-color: white;
+    border: solid #649bdb 1px;
+    border-radius: 40px;
+    padding: 13px;
+    width: 280px;
+    color: #5293e2;
+}
+#meta{
+    width: 70px;
+}
